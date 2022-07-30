@@ -1,0 +1,368 @@
+body {
+    background-color: #1A7FBD;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#parti1 {
+    background-color: #1A7FBD;
+
+}
+
+#bannertopo {
+    margin-left: -18%;
+    margin-top: -2cm;
+}
+
+#box {
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-inline-start: 21cm;
+    position: absolute;
+    margin-right: 3cm;
+}
+
+#box1 {
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+#logo {
+    position: relative;
+    margin-left: 5cm;
+    padding-right: 2cm;
+    width: 200px;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+#linha-horizontal {
+    position: relative;
+    margin-left: 2cm;
+    width: 1200px;
+    border: 1px solid white;
+
+}
+
+.cabecalho {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 10px;
+    position: relative;
+    color: white;
+    font-weight: 100;
+}
+
+.Processo {
+    position: relative;
+    background-color: black;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#box2 {
+
+    background-color: #1A7FBD;
+}
+
+form {
+
+    margin-right: 2cm;
+}
+
+.conhecimento1 {
+
+    font-weight: 100;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Noto Sans';
+    font-style: inherit;
+    padding: 5px;
+}
+
+h6 {
+
+    font-family: 'Noto Sans';
+    font-size: 17px;
+    color: white;
+}
+
+head {
+    display: flex;
+    flex-direction: row;
+}
+
+.inputbox {
+    text-align: left;
+    border-radius: 10px;
+
+}
+
+.cadastro {
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+    margin-left: 30px;
+    color: lightgray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#dados {
+    font: arial;
+    color: #1a7fbd;
+}
+
+#box1 {
+    border-radius: 10px;
+    background-color: white;
+}
+
+#preencha {
+    text-align: left;
+    margin-left: 30px;
+    color: #1a7fbd;
+    ;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+#nomecompleto {
+    background: url(/imag/user.png) no-repeat scroll 2px 1px;
+    padding-left: 10px;
+}
+
+.caixas {
+
+    background-color: aliceblue;
+    width: 330px;
+    height: 25px;
+    border-color: 1px solid aliceblue;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+
+#programaçao {
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align: left;
+    color: white;
+
+}
+
+#trabalhou {
+    background-color: white;
+    color: #1A7FBD;
+}
+
+#desenvolvimento {
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 30px;
+    color: #1a7fbd;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+#linha1 {
+
+    width: 400;
+    border: 1px solid rgb(164, 158, 158);
+}
+
+#campo {
+    text-align: center;
+    font-size: 12px;
+}
+
+#enviar {
+    font-size: 18px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: #1A7FBD;
+    height: 50px;
+    width: 340px;
+    background-color: #1A7FBD;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+    border-radius: 7px;
+    padding: 8px;
+}
+
+#clicar {
+    color: rgb(164, 158, 158);
+    border-radius: 10px;
+    margin-top: -5px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    font-size: 12px
+}
+
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 35px;
+    text-align: left;
+    color: #A4DCFF;
+}
+
+#novonormal {
+    line-height: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    color: whitesmoke;
+    word-spacing: 5px;
+    margin-top: -300px;
+    margin-left: 800px;
+    margin-right: 100px;
+}
+
+#oprojetonetuno {
+    font-size: 15px;
+    font: border;
+    font-weight: bolder;
+    word-spacing: 1px;
+}
+
+#meio {
+    margin-top: -200px;
+}
+
+#dev {
+    margin-left: 60px;
+}
+
+#boxContainer2 {
+    align-items: center;
+    display: flex;
+    background-color: white;
+    margin-top: 180px;
+    margin-left: -5px;
+    margin-right: -10px;
+}
+
+#Container2 {
+
+    height: 600px;
+    width: 600px;
+    margin-left: 150px;
+}
+
+#oproblema {
+    /*background - gradient*/
+    background: -webkit-linear-gradient (left, #1A7FBD 0%, white 100%);
+    background: linear-gradient(to right, #1A7FBD 0%, white 100%);
+    font-size: 35px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#falta {
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+#Estima-se {
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+    word-spacing: 4px;
+}
+
+#linha01 {
+
+    width: 390px;
+    border: 1px solid rgb(207, 201, 201);
+}
+
+#umdosprincipais {
+
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+#caixamae {
+
+    margin-top: 25px;
+    padding-left: 180px;
+    line-height: 22px;
+    position: absolute;
+    display: flex;
+    grid-template: 20px;
+}
+
+#Oportunidade {
+    margin-right: 10px;
+    width: 320px;
+    height: 170px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+#Comunidade {
+    margin-right: 10px;
+    width: 320px;
+    height: 170px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#Experiencia {
+
+    width: 320px;
+    height: 170px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h3 {
+    height: 100px;
+
+    background-color: white;
+    margin-top: 350px;
+    text-align: center;
+}
+
+.scaixas {
+    color: white;
+    padding-left: 20px;
+    margin-right: 50px;
+    margin-left: 100px;
+    height: 65px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: #1A7FBD;
+
+}
+
+#caixamae2 {
+
+    padding: 20px;
+    padding-top: 10px;
+    margin-left: -100px;
+    margin-right: -100px;
+    background-color: white;
+    margin-top: 100px;
+}
+
+#caixa001 {
+
+    display: flex;
+    padding: 10px;
+}
+
+#caixa002 {
+    margin-top: -5px;
+    display: flex;
+    padding: 10px;
+}
